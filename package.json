@@ -1,0 +1,35 @@
+{
+  "name": "phinx-gui-dev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bng5/phinx-gui-dev.git"
+  },
+  "author": "Pablo Bangueses <pablo@bng5.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bng5/phinx-gui-dev/issues"
+  },
+  "homepage": "https://github.com/bng5/phinx-gui-dev#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.7",
+    "path": "^0.12.7",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
+  }
+}

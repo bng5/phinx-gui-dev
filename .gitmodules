@@ -1,0 +1,3 @@
+[submodule "phinx-gui"]
+	path = phinx-gui
+	url = https://github.com/bng5/phinx-gui
